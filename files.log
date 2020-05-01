@@ -1,0 +1,22 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	files
+#open	2020-04-30-23-26-25
+#fields	ts	fuid	tx_hosts	rx_hosts	conn_uids	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
+#types	time	string	set[addr]	set[addr]	set[string]	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count
+1586326747.951861	Fhz8PbC6u2J9MZ2Ta	10.206.0.2	180.102.61.144	CIivld3NC9OexsnKdj	HTTP	0	(empty)	text/html	-	0.000000	-	F	1179	1179	0	0	F	-	-	-	-	-	-	-
+1586326756.000181	FAphA54AKFNtgrMf94	10.206.0.2	180.102.61.144	Cx16t01PlCsIYX1Ju5	HTTP	0	(empty)	text/html	-	0.000000	-	F	1179	1179	0	0	F	-	-	-	-	-	-	-
+1586326764.161860	FIhZsy3MJ1uLwXFK6l	10.206.0.2	180.102.61.144	C48vtebyOP1nq6tv2	HTTP	0	(empty)	text/html	-	0.000000	-	F	1179	1179	0	0	F	-	-	-	-	-	-	-
+1586326770.315986	FixZpN2K247tOBvT5i	10.206.0.2	180.102.61.144	CsmjBL1LO6gg94d1V4	HTTP	0	(empty)	text/html	-	0.000000	-	F	1179	1179	0	0	F	-	-	-	-	-	-	-
+1586326807.013779	F0biJVplWqke04qte	10.206.0.2	132.232.111.21	CJXrPm27veBYpTBFY1	HTTP	0	(empty)	text/html	-	0.000000	-	F	1179	1179	0	0	F	-	-	-	-	-	-	-
+1586326810.157938	FnviKqFw1nLHgoiSi	10.206.0.2	132.232.111.21	CwOa9H3uGXxJK9ocgf	HTTP	0	(empty)	text/html	-	0.000000	-	F	1179	1179	0	0	F	-	-	-	-	-	-	-
+1586326811.317255	FVbOyyqX1LqrUfIgb	10.206.0.2	132.232.111.21	C72OEdrmIJql65Hsd	HTTP	0	(empty)	text/html	-	0.000000	-	F	1179	1179	0	0	F	-	-	-	-	-	-	-
+1586326819.495378	FDtV3J3GcflFd1uMuh	10.206.0.2	132.232.111.21	COiOGx4SfsVMi5pBC7	HTTP	0	(empty)	text/html	-	0.000000	-	F	1179	1179	0	0	F	-	-	-	-	-	-	-
+1586326821.690094	FtFigz4oql8q00ZEgb	10.206.0.2	132.232.111.21	Cb5iW61YPkEoe3AAI6	HTTP	0	(empty)	text/html	-	0.000000	-	F	1179	1179	0	0	F	-	-	-	-	-	-	-
+1586326850.304297	FzXsam2ZW7OHs7e745	10.206.0.2	192.81.128.138	C550aT7kaQ9F1meYf	HTTP	0	(empty)	text/html	-	0.000000	-	F	1179	1179	0	0	F	-	-	-	-	-	-	-
+1586326852.019804	Ftsu2nXH7VdRihW8k	10.206.0.2	192.81.128.138	C967Qv3yMZiaHZDF8	HTTP	0	(empty)	text/html	-	0.000000	-	F	1179	1179	0	0	F	-	-	-	-	-	-	-
+1586326853.923065	Fkdezo3IELBz0Enbcd	10.206.0.2	192.81.128.138	CDOYHPAN0JrbnMPbc	HTTP	0	(empty)	text/html	-	0.000000	-	F	1179	1179	0	0	F	-	-	-	-	-	-	-
+1586326855.242583	FcxaMN1TPBrI85FANg	10.206.0.2	192.81.128.138	C93LGg1iIIkfJzW56f	HTTP	0	(empty)	text/html	-	0.000000	-	F	1179	1179	0	0	F	-	-	-	-	-	-	-
+#close	2020-04-30-23-26-25

@@ -1,0 +1,22 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	http
+#open	2020-04-30-23-26-25
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	version	user_agent	origin	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	tags	username	password	proxied	orig_fuids	orig_filenames	orig_mime_types	resp_fuids	resp_filenames	resp_mime_types
+#types	time	string	addr	port	addr	port	count	string	string	string	string	string	string	string	count	count	count	string	count	string	set[enum]	string	string	set[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]
+1586326747.951830	CIivld3NC9OexsnKdj	180.102.61.144	50835	10.206.0.2	3399	1	GET	129.211.172.252	/	-	1.0	I am an Apple; Haha	-	0	1179	200	OK	-	-	(empty)	-	-	-	-	-	-	Fhz8PbC6u2J9MZ2Ta	-	text/html
+1586326756.000149	Cx16t01PlCsIYX1Ju5	180.102.61.144	50856	10.206.0.2	3399	1	GET	129.211.172.252	/	-	1.0	I am an Banana; Haha	-	0	1179	200	OK	-	-	(empty)	-	-	-	-	-	-	FAphA54AKFNtgrMf94	-	text/html
+1586326764.161829	C48vtebyOP1nq6tv2	180.102.61.144	50878	10.206.0.2	3399	1	GET	129.211.172.252	/	-	1.0	I am an Orange; Haha	-	0	1179	200	OK	-	-	(empty)	-	-	-	-	-	-	FIhZsy3MJ1uLwXFK6l	-	text/html
+1586326770.315954	CsmjBL1LO6gg94d1V4	180.102.61.144	50895	10.206.0.2	3399	1	GET	129.211.172.252	/	-	1.0	I am an apple; Haha	-	0	1179	200	OK	-	-	(empty)	-	-	-	-	-	-	FixZpN2K247tOBvT5i	-	text/html
+1586326807.013747	CJXrPm27veBYpTBFY1	132.232.111.21	44610	10.206.0.2	3399	1	GET	129.211.172.252	/	-	1.0	I am an apple; Haha	-	0	1179	200	OK	-	-	(empty)	-	-	-	-	-	-	F0biJVplWqke04qte	-	text/html
+1586326810.157908	CwOa9H3uGXxJK9ocgf	132.232.111.21	44618	10.206.0.2	3399	1	GET	129.211.172.252	/	-	1.0	I am an apple; Haha	-	0	1179	200	OK	-	-	(empty)	-	-	-	-	-	-	FnviKqFw1nLHgoiSi	-	text/html
+1586326811.317224	C72OEdrmIJql65Hsd	132.232.111.21	44624	10.206.0.2	3399	1	GET	129.211.172.252	/	-	1.0	I am an apple; Haha	-	0	1179	200	OK	-	-	(empty)	-	-	-	-	-	-	FVbOyyqX1LqrUfIgb	-	text/html
+1586326819.495332	COiOGx4SfsVMi5pBC7	132.232.111.21	44630	10.206.0.2	3399	1	GET	129.211.172.252	/	-	1.0	I am an banana; Haha	-	0	1179	200	OK	-	-	(empty)	-	-	-	-	-	-	FDtV3J3GcflFd1uMuh	-	text/html
+1586326821.690062	Cb5iW61YPkEoe3AAI6	132.232.111.21	44636	10.206.0.2	3399	1	GET	129.211.172.252	/	-	1.0	I am an banana; Haha	-	0	1179	200	OK	-	-	(empty)	-	-	-	-	-	-	FtFigz4oql8q00ZEgb	-	text/html
+1586326850.304261	C550aT7kaQ9F1meYf	192.81.128.138	60932	10.206.0.2	3399	1	GET	129.211.172.252	/	-	1.0	I am a big  apple; Haha	-	0	1179	200	OK	-	-	(empty)	-	-	-	-	-	-	FzXsam2ZW7OHs7e745	-	text/html
+1586326852.019772	C967Qv3yMZiaHZDF8	192.81.128.138	60934	10.206.0.2	3399	1	GET	129.211.172.252	/	-	1.0	I am a big  apple; Haha	-	0	1179	200	OK	-	-	(empty)	-	-	-	-	-	-	Ftsu2nXH7VdRihW8k	-	text/html
+1586326853.923033	CDOYHPAN0JrbnMPbc	192.81.128.138	60936	10.206.0.2	3399	1	GET	129.211.172.252	/	-	1.0	I am a big  apple; Haha	-	0	1179	200	OK	-	-	(empty)	-	-	-	-	-	-	Fkdezo3IELBz0Enbcd	-	text/html
+1586326855.242552	C93LGg1iIIkfJzW56f	192.81.128.138	60938	10.206.0.2	3399	1	GET	129.211.172.252	/	-	1.0	I am a big  apple; Haha	-	0	1179	200	OK	-	-	(empty)	-	-	-	-	-	-	FcxaMN1TPBrI85FANg	-	text/html
+#close	2020-04-30-23-26-25

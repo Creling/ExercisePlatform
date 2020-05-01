@@ -1,0 +1,22 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	conn
+#open	2020-04-30-23-26-25
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	local_resp	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents
+#types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	bool	count	string	count	count	count	count	set[string]
+1586326747.945634	CIivld3NC9OexsnKdj	180.102.61.144	50835	10.206.0.2	3399	tcp	http	0.013026	143	1334	SF	-	-	0	ShADadfF	6	467	5	1602	-
+1586326755.993765	Cx16t01PlCsIYX1Ju5	180.102.61.144	50856	10.206.0.2	3399	tcp	http	0.017713	144	1334	SF	-	-	0	ShADadfF	6	468	5	1602	-
+1586326764.155024	C48vtebyOP1nq6tv2	180.102.61.144	50878	10.206.0.2	3399	tcp	http	0.015858	144	1334	SF	-	-	0	ShADadfF	6	468	5	1602	-
+1586326770.306967	CsmjBL1LO6gg94d1V4	180.102.61.144	50895	10.206.0.2	3399	tcp	http	0.019490	143	1334	SF	-	-	0	ShADadfF	6	467	5	1602	-
+1586326806.965557	CJXrPm27veBYpTBFY1	132.232.111.21	44610	10.206.0.2	3399	tcp	http	0.096572	143	1334	SF	-	-	0	ShADadfF	6	463	5	1602	-
+1586326810.114455	CwOa9H3uGXxJK9ocgf	132.232.111.21	44618	10.206.0.2	3399	tcp	http	0.087067	143	1334	SF	-	-	0	ShADadfF	6	463	5	1602	-
+1586326811.274671	C72OEdrmIJql65Hsd	132.232.111.21	44624	10.206.0.2	3399	tcp	http	0.085273	143	1334	SF	-	-	0	ShADadfF	6	463	5	1602	-
+1586326819.449893	COiOGx4SfsVMi5pBC7	132.232.111.21	44630	10.206.0.2	3399	tcp	http	0.090425	144	1334	SF	-	-	0	ShADadfF	6	464	5	1602	-
+1586326821.647239	Cb5iW61YPkEoe3AAI6	132.232.111.21	44636	10.206.0.2	3399	tcp	http	0.085679	144	1334	SF	-	-	0	ShADadfF	6	464	5	1602	-
+1586326851.861437	C967Qv3yMZiaHZDF8	192.81.128.138	60934	10.206.0.2	3399	tcp	http	0.317473	120	1334	SF	-	-	0	ShDadfAF	5	388	5	1602	-
+1586326850.143625	C550aT7kaQ9F1meYf	192.81.128.138	60932	10.206.0.2	3399	tcp	http	0.322649	120	1334	SF	-	-	0	ShADadfF	6	440	5	1602	-
+1586326855.096724	C93LGg1iIIkfJzW56f	192.81.128.138	60938	10.206.0.2	3399	tcp	http	0.290951	120	1334	SF	-	-	0	ShADadfF	6	440	5	1602	-
+1586326853.684864	CDOYHPAN0JrbnMPbc	192.81.128.138	60936	10.206.0.2	3399	tcp	http	0.476918	120	1334	SF	-	-	0	ShADadfF	6	440	5	1602	-
+#close	2020-04-30-23-26-25
